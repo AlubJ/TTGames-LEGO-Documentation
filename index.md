@@ -9,7 +9,7 @@ Our developer team is constantly trying to reverse engineer game files and creat
 
 >`Note:` All tutorials are targeted towards the PC versions of the games.
 
-[Getting Started](getting-started/index.md) - A walkthrough of how to get started modding LEGO Games
+[Getting Started](tutorials/getting-started.md) - A walkthrough of how to get started modding LEGO Games
 
 ## Tools
 
