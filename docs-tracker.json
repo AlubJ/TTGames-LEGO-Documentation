@@ -1,0 +1,13 @@
+[
+    {
+        "type": "folder",
+        "name": "Tutorials",
+        "items": [
+            {
+                "type": "link",
+                "name": "Getting Started",
+                "redirect": "getting-started/index.md"
+            }
+        ]
+    }
+]
