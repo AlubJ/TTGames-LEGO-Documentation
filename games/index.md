@@ -8,7 +8,7 @@ List of TTGames' LEGO Games
 [LEGO Star Wars: The Complete Saga](tcs.md)<br>
 [LEGO Indiana Jones: The Original Adventures](lij1.md)<br/>
 [LEGO Batman: The Videogame](lb1.md)<br>
-[LEGO Indiana Jones 2: The Adventure Continues](lij1.md)<br/>
+[LEGO Indiana Jones 2: The Adventure Continues](lij2.md)<br/>
 [LEGO Harry Potter: Years 1-4](lhp1.md)<br>
 [LEGO Star Wars II: The Original Trilogy](lswiii.md)<br>
 [LEGO Pirates of the Caribbean: The Video Game](lpotc.md)<br>
