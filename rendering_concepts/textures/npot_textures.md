@@ -1,5 +1,5 @@
 # Non-Power of Two Textures
-<span align="right"><img src="https://cdn.discordapp.com/attachments/717427407690137680/936414494467428393/Lando_General_UVs_1.png" alt="Lando_General_GenericJedi's texture, with UVs visible" width="256"/><br/>The GenericJedi version of Better UVs Lando_General V3 uses a non-power of two vertical resolution to make room for leg printing UVs.</span>
+<figure align="right"><img src="https://cdn.discordapp.com/attachments/717427407690137680/936414494467428393/Lando_General_UVs_1.png" alt="Lando_General_GenericJedi's texture, with UVs visible" width="256"/><figcaption>The GenericJedi version of Better UVs Lando_General V3 uses a non-power of two vertical resolution to make room for leg printing UVs</figcaption></figure>
 
 In the world of texture design, it is customary to constrain the vertical and horizontal resolutions of a texture to a power of two. The reason behind this is twofold: 
 1. Computers, being binary machines, like numbers to be cleanly divisible by 2
