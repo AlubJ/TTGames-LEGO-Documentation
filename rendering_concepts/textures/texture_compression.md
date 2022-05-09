@@ -36,7 +36,7 @@ Although PNG and other common image compression formats may provide smaller file
 Just don't.
 
 ## S3 Texture Compression (S3TC/DXTn/BCn)
-<img align="right" src="https://developer.valvesoftware.com/w/images/8/8e/Dxtn_comparison.jpg" width="256" alt="Comparison of DXT1 and DXT-compressed textures versus uncompressed textures." title="Comparison of DXT1 and DXT-compressed textures versus uncompressed textures." />
+<a href="https://developer.valvesoftware.com/w/images/8/8e/Dxtn_comparison.jpg"><img align="right" src="https://developer.valvesoftware.com/w/images/8/8e/Dxtn_comparison.jpg" width="256" alt="Comparison of DXT1 and DXT-compressed textures versus uncompressed textures." title="Comparison of DXT1 and DXT-compressed textures versus uncompressed textures." /></a>
 
 ### BC1 ("DXT1")
 DXT1 is the most basic form of S3TC, and is half the file size of an 8-bit texture of the same resolution. It is the most supported, having been introduced in 1998 for the Savage3D 3D-accelerated GPU and subsequently included in DirectX 6 and OpenGL 1.3 and supported by the Dreamcast, GameCube, Xbox, PSP, PS3, and 3DS (as well as all subsequent API versions and game consoles). <br/>
