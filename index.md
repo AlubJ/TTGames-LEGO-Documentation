@@ -13,9 +13,10 @@ Our developer team is constantly trying to reverse engineer game files and creat
 
 ## Tools
 
-[BrickBench](https://github.com/BrickBench/BrickBench) - A map editor for Lego Star Wars: The Complete Saga, as well as an experimental viewer for Lego Indiana Jones & Lego Batman.
+[BrickBench](https://github.com/BrickBench/BrickBench) - A map editor for Lego Star Wars: The Complete Saga, as well as an experimental viewer for Lego Indiana Jones & Lego Batman 1. Documentation for BrickBench can be found [here](https://brickbench.readthedocs.io/).
 
-[DATOneArchiver](https://github.com/yodadude2003/DATOneArchiver) - A complete toolset for extracting, modifying, and creating TT Games DAT archive files from certain games.
+
+[DATOneArchiver](https://github.com/IsaMorphic/DATOneArchiver) - A complete toolset for extracting, modifying, and creating TT Games DAT archive files from certain games.
 
 ## File Formats
 
