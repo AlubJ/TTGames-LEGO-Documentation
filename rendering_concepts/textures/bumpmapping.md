@@ -15,7 +15,7 @@ DuDv maps are a deprecated form of bump map, usually used by old DirectX 8 rende
 ### Normal maps
 [<img align="right" src="https://raw.githubusercontent.com/AlubJ/TTGames-LEGO-Documentation/main/media/bumpdemo/nab2_bldg_brick06_directx.png" width="256" alt="A DirectX-style normal map, generated from the heightmap above." title="A DirectX-style normal map, generated from the heightmap above." />](https://raw.githubusercontent.com/AlubJ/TTGames-LEGO-Documentation/main/media/bumpdemo/nab2_bldg_brick06_directx.png)
 Rather than storing the literal shape of a surface, normal maps encode bump information in tangential space. To avoid getting super-mathematical, this basically means that different colors determine how far a portion of a surface is from being flat. <br/>
-A flat normal map has an RGB value of (128,128,255). The red value represents the X axis, the red value represents the Y axis, and the red value represents the Z axis. Any green value below 128 is invalid, as it means the surface is facing backwards. 
+A flat normal map has an RGB value of (128,128,255). The red value represents the X axis, the red value represents the Y axis, and the red value represents the Z axis. Any blue value below 128 is invalid, as it means the surface is facing backwards. 
 
 ## Normal map formats
 Not all normal maps are created equal. Sometimes it is necessary to do some fiddling in an image editor to make a normal map compatible with a given game or 3D application. 
