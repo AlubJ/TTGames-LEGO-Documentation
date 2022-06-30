@@ -51,5 +51,13 @@ This section is a WIP.
 
 
 ### Generating a normal map from a height map
+There are serveral tools that can convert height maps to normal maps. The normal map presented on this page was converted from a heightmap using [NormalMap Online](https://cpetry.github.io/NormalMap-Online/). Despite its name, all processing is done client-side, and no images are uploaded to the internet to use it. To use the tool:
+1. Drag and drop an existing greyscale height map onto the leftmost image.
+2. Configure the following defaults:
+[<img src="https://raw.githubusercontent.com/AlubJ/TTGames-LEGO-Documentation/main/media/tuts/bumpmake/normalmaponline_defaults.png" width="720" alt="All sliders are at default. The only checkbox marked is labeled 'Normal'. The filter is set to 'Sobel'. The model is set to 'plane'." />](https://raw.githubusercontent.com/AlubJ/TTGames-LEGO-Documentation/main/media/tuts/bumpmake/normalmaponline_defaults.png)
+3. Optionally, load an associated base, diffuse, or albedo texture in the 3D preview.
+4. Adjust the sliders until the texture looks good.
+5. Press the download button at the bottom of the page.
+6. Make any final adjustments to the downloaded image in an image editor, then save it as the applicable file format for the given game.
 
 
