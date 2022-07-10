@@ -8,6 +8,9 @@ List of TTGames' LEGO Games
 [LEGO Star Wars: The Complete Saga](tcs.md)<br>
 [LEGO Indiana Jones: The Original Adventures](lij1.md)<br/>
 [LEGO Batman: The Videogame](lb1.md)<br>
+
+<h3>NXG Engine</h3>
+
 [LEGO Indiana Jones 2: The Adventure Continues](lij2.md)<br/>
 [LEGO Harry Potter: Years 1-4](lhp1.md)<br>
 [LEGO Star Wars III: The Clone Wars](lswiii.md)<br>
@@ -19,6 +22,9 @@ List of TTGames' LEGO Games
 [LEGO Marvel Super Heroes](lmsh1.md)<br/>
 [The LEGO Movie Videogame](tlmvg1.md)<br>
 [LEGO The Hobbit](lego_hobbit.md)<br/>
+
+<h3>DX11 Engine</h3>
+
 [LEGO Batman 3: Beyond Gotham](lb3.md)<br>
 [LEGO Marvel's Avengers](lma.md)<br/>
 [LEGO Jurassic World](ljw.md)<br>
