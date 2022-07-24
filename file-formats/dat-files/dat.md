@@ -72,10 +72,6 @@ It will tear apart the files at the backward-slashes, and store the separate seg
 
 chars..minifig..voldemort..voldemort.cd..voldemort.dno..harry..harry_potter.cd..harry_potter.dno..collection.txt
 
-And this can be seen in the image below:
-
-// PLACE IMAGE HERE!!!!
-
 This is an efficient system at storing multiple paths that share parent directories. Needless to say though a system must be in place for building these paths again...
 
 ### Name resolution table
