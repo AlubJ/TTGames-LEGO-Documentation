@@ -18,3 +18,13 @@ Comments are indicated with a single `//`, `;` or `#`.
 `no_progress` - Adds the character to the character grid from the start of the game.
 
 `do_not_show` - Removes the character from the character grid.
+
+`cheat_code "[cheat code]"` - Adds the character to the shop and makes it buyable after redeeming a cheat code. Cheat codes have to be 6 digits long.
+
+`area_complete "[level filename]"` - Adds the character to the shop and makes it buyable after beating a specific level.
+
+`all_episodes_complete` - Adds the character to the shop and makes it buyable after beating all episodes.
+
+`story` - Locks the character behind level completion.
+
+`100_percent` - Locks the character behind 100% completion.
